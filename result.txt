@@ -1,0 +1,598 @@
+------------Predict with batch size = 1--------------------
+Path: sample/RSSmX_1611908871.1615832.png
+Label: RSSmX
+Result: RSSmX
+Estimated time: 0.059945106506347656
+----------------------------------------------------
+Path: sample/xPna_1611909173.644319.png
+Label: xPna
+Result: xPna
+Estimated time: 0.05405831336975098
+----------------------------------------------------
+Path: sample/otA_1611909228.7581625.png
+Label: otA
+Result: otA
+Estimated time: 0.05282902717590332
+----------------------------------------------------
+Path: sample/Liah_1611908870.8656523.png
+Label: Liah
+Result: Liah
+Estimated time: 0.05509066581726074
+----------------------------------------------------
+Path: sample/CZ1g_1611909178.3656964.png
+Label: CZ1g
+Result: CZ1g
+Estimated time: 0.0543513298034668
+----------------------------------------------------
+Path: sample/k5f_1611909157.0646024.png
+Label: k5f
+Result: k5f
+Estimated time: 0.051854610443115234
+----------------------------------------------------
+Path: sample/ci5_1611909384.2616377.png
+Label: ci5
+Result: co5
+Estimated time: 0.05036759376525879
+----------------------------------------------------
+Path: sample/XduVg_1611909140.8536754.png
+Label: XduVg
+Result: XduVg
+Estimated time: 0.055342674255371094
+----------------------------------------------------
+Path: sample/Pomx_1611909133.0256329.png
+Label: Pomx
+Result: Pomx
+Estimated time: 0.05481433868408203
+----------------------------------------------------
+Path: sample/O1j7_1611909556.0565305.png
+Label: O1j7
+Result: O1j7
+Estimated time: 0.05402874946594238
+----------------------------------------------------
+Path: sample/rxg_1611909133.1358383.png
+Label: rxg
+Result: rxg
+Estimated time: 0.05248832702636719
+----------------------------------------------------
+Path: sample/nvr_1611909233.0163207.png
+Label: nvr
+Result: nvr
+Estimated time: 0.05770111083984375
+----------------------------------------------------
+Path: sample/mEV_1611908870.1686487.png
+Label: mEV
+Result: mEV
+Estimated time: 0.05450868606567383
+----------------------------------------------------
+Path: sample/gVK_1611909233.6447647.png
+Label: gVK
+Result: gVK
+Estimated time: 0.05285143852233887
+----------------------------------------------------
+Path: sample/39s2k_1611909544.657149.png
+Label: 39s2k
+Result: 39s2k
+Estimated time: 0.05580568313598633
+----------------------------------------------------
+Path: sample/tkb_1611909146.3001328.png
+Label: tkb
+Result: tkb
+Estimated time: 0.05537104606628418
+----------------------------------------------------
+Path: sample/mFG_1611908820.7658157.png
+Label: mFG
+Result: mFG
+Estimated time: 0.07013893127441406
+----------------------------------------------------
+Path: sample/KxAx_1611909556.0945818.png
+Label: KxAx
+Result: KxAX
+Estimated time: 0.0691843032836914
+----------------------------------------------------
+Path: sample/9J2sW_1611911556.500534.png
+Label: 9J2sW
+Result: 9J2sW
+Estimated time: 0.052229881286621094
+----------------------------------------------------
+Path: sample/2WhQ5_1611909203.23243.png
+Label: 2WhQ5
+Result: 2WnQ5
+Estimated time: 0.048416852951049805
+----------------------------------------------------
+Path: sample/nV7_1611908828.109658.png
+Label: nV7
+Result: nVT
+Estimated time: 0.057848453521728516
+----------------------------------------------------
+Path: sample/BWKq_1611908872.0616202.png
+Label: BWKq
+Result: BWKq
+Estimated time: 0.045470476150512695
+----------------------------------------------------
+Path: sample/aa7_1611909571.789137.png
+Label: aa7
+Result: a37
+Estimated time: 0.04615378379821777
+----------------------------------------------------
+Path: sample/4xsjx_1611909210.635442.png
+Label: 4xsjx
+Result: 4xsjx
+Estimated time: 0.043318986892700195
+----------------------------------------------------
+Path: sample/dts_1611909137.7125309.png
+Label: dts
+Result: dts
+Estimated time: 0.046365976333618164
+----------------------------------------------------
+Path: sample/HnSk_1611908819.6963665.png
+Label: HnSk
+Result: HnSk
+Estimated time: 0.04833579063415527
+----------------------------------------------------
+Path: sample/SPDK0_1611909566.1576905.png
+Label: SPDK0
+Result: SPDK0
+Estimated time: 0.04450416564941406
+----------------------------------------------------
+Path: sample/rOv_1611909185.817674.png
+Label: rOv
+Result: rOv
+Estimated time: 0.04098153114318848
+----------------------------------------------------
+Path: sample/FLqU_1611909195.6873534.png
+Label: FLqU
+Result: FLqU
+Estimated time: 0.0418398380279541
+----------------------------------------------------
+Path: sample/jJB_1611908819.7175486.png
+Label: jJB
+Result: jJB
+Estimated time: 0.04130363464355469
+----------------------------------------------------
+Path: sample/LOsJ_1611909233.0254667.png
+Label: LOsJ
+Result: LOsJ
+Estimated time: 0.0450749397277832
+----------------------------------------------------
+Path: sample/Pomx_1611909132.7452211.png
+Label: Pomx
+Result: Pomx
+Estimated time: 0.04913616180419922
+----------------------------------------------------
+Path: sample/8RBtp_1611909554.1245668.png
+Label: 8RBtp
+Result: 8RBtp
+Estimated time: 0.042038917541503906
+----------------------------------------------------
+Path: sample/YCahi_1611909561.9799623.png
+Label: YCahi
+Result: YCahi
+Estimated time: 0.04511308670043945
+----------------------------------------------------
+Path: sample/LwPQ_1611909545.7757843.png
+Label: LwPQ
+Result: LwPQ
+Estimated time: 0.05084705352783203
+----------------------------------------------------
+Path: sample/3Hyf2_1611909384.283669.png
+Label: 3Hyf2
+Result: 3Hvf2
+Estimated time: 0.06247901916503906
+----------------------------------------------------
+Path: sample/SdHKM_1611909383.7502236.png
+Label: SdHKM
+Result: SoHk4
+Estimated time: 0.05803084373474121
+----------------------------------------------------
+Path: sample/HVXV_1611908819.3445618.png
+Label: HVXV
+Result: HVXV
+Estimated time: 0.04143047332763672
+----------------------------------------------------
+Path: sample/ThRYZ_1611908872.1562982.png
+Label: ThRYZ
+Result: ThRY2
+Estimated time: 0.04290604591369629
+----------------------------------------------------
+Path: sample/Y6t88_1611909199.0776436.png
+Label: Y6t88
+Result: Y6f8B
+Estimated time: 0.04996895790100098
+----------------------------------------------------
+Path: sample/pb1_1611909169.3137941.png
+Label: pb1
+Result: pb1
+Estimated time: 0.04503345489501953
+----------------------------------------------------
+Path: sample/ppK_1611909383.7325213.png
+Label: ppK
+Result: ppK
+Estimated time: 0.047286033630371094
+----------------------------------------------------
+Path: sample/2sVuL_1611909176.2002134.png
+Label: 2sVuL
+Result: 2sVuL
+Estimated time: 0.04628133773803711
+----------------------------------------------------
+Path: sample/Q3Npk_1611909545.5365257.png
+Label: Q3Npk
+Result: Q3Npk
+Estimated time: 0.04885506629943848
+----------------------------------------------------
+Path: sample/aJT_1611909190.5216324.png
+Label: aJT
+Result: aJT
+Estimated time: 0.04936575889587402
+----------------------------------------------------
+Path: sample/7eSCa_1611911556.5485306.png
+Label: 7eSCa
+Result: 7eSCa
+Estimated time: 0.047493696212768555
+----------------------------------------------------
+Path: sample/3FOyv_1611909163.917752.png
+Label: 3FOyv
+Result: SFOyv
+Estimated time: 0.044028520584106445
+----------------------------------------------------
+Path: sample/DW8N_1611909545.4520772.png
+Label: DW8N
+Result: DW8N
+Estimated time: 0.042230844497680664
+----------------------------------------------------
+Path: sample/Q5FMH_1611909240.925534.png
+Label: Q5FMH
+Result: Q5FMH
+Estimated time: 0.04446578025817871
+----------------------------------------------------
+Path: sample/dT0_1611909224.2485304.png
+Label: dT0
+Result: dTO
+Estimated time: 0.04464554786682129
+----------------------------------------------------
+Path: sample/cZp_1611909218.5713556.png
+Label: cZp
+Result: cZp
+Estimated time: 0.043836355209350586
+----------------------------------------------------
+Path: sample/rhi_1611909215.702886.png
+Label: rhi
+Result: rhi
+Estimated time: 0.03970050811767578
+----------------------------------------------------
+Path: sample/yi54_1611909146.656251.png
+Label: yi54
+Result: yi54
+Estimated time: 0.045087337493896484
+----------------------------------------------------
+Path: sample/P67v_1611909243.8725362.png
+Label: P67v
+Result: P67v
+Estimated time: 0.04272150993347168
+----------------------------------------------------
+Path: sample/3Hyf2_1611909384.087781.png
+Label: 3Hyf2
+Result: 3Hvf2
+Estimated time: 0.04837679862976074
+----------------------------------------------------
+Path: sample/pUe_1611911556.4061744.png
+Label: pUe
+Result: pUe
+Estimated time: 0.04416346549987793
+----------------------------------------------------
+Path: sample/j9H_1611909575.5735188.png
+Label: j9H
+Result: j9H
+Estimated time: 0.03995990753173828
+----------------------------------------------------
+Path: sample/c9Y_1611909211.4218953.png
+Label: c9Y
+Result: c9Y
+Estimated time: 0.040193796157836914
+----------------------------------------------------
+Path: sample/nqk_1611909561.5085769.png
+Label: nqk
+Result: nok
+Estimated time: 0.04204297065734863
+----------------------------------------------------
+Path: sample/7k5P7_1611909240.9136517.png
+Label: 7k5P7
+Result: 7k5P7
+Estimated time: 0.05881905555725098
+----------------------------------------------------
+Path: sample/jPQ_1611909149.6816778.png
+Label: jPQ
+Result: jPQ
+Estimated time: 0.0461428165435791
+----------------------------------------------------
+Path: sample/OJio_1611909554.5615587.png
+Label: OJio
+Result: OJio
+Estimated time: 0.04079413414001465
+----------------------------------------------------
+Path: sample/7FxX5_1611909168.480538.png
+Label: 7FxX5
+Result: 7FxX5
+Estimated time: 0.04159808158874512
+----------------------------------------------------
+Path: sample/dts_1611909138.0352871.png
+Label: dts
+Result: dts
+Estimated time: 0.043851375579833984
+----------------------------------------------------
+Path: sample/dri_1611909557.2740364.png
+Label: dri
+Result: dnn
+Estimated time: 0.047626495361328125
+----------------------------------------------------
+Path: sample/vLXJ_1611909220.196881.png
+Label: vLXJ
+Result: vLXJ
+Estimated time: 0.0441892147064209
+----------------------------------------------------
+Path: sample/Z8Gd3_1611909236.4177485.png
+Label: Z8Gd3
+Result: Z8Gd3
+Estimated time: 0.04200267791748047
+----------------------------------------------------
+Path: sample/xwC3_1611908827.6576633.png
+Label: xwC3
+Result: xwC3
+Estimated time: 0.041593074798583984
+----------------------------------------------------
+Path: sample/ERZu_1611909234.401649.png
+Label: ERZu
+Result: ERZu
+Estimated time: 0.042580604553222656
+----------------------------------------------------
+Path: sample/1cprf_1611909383.9518592.png
+Label: 1cprf
+Result: Tcprf
+Estimated time: 0.046677350997924805
+----------------------------------------------------
+Path: sample/cbe_1611909551.7472234.png
+Label: cbe
+Result: cbe
+Estimated time: 0.043160438537597656
+----------------------------------------------------
+Path: sample/C7D8_1611908871.2136474.png
+Label: C7D8
+Result: C7D8
+Estimated time: 0.04051613807678223
+----------------------------------------------------
+Path: sample/Mh0B_1611909205.4656816.png
+Label: Mh0B
+Result: Mh08
+Estimated time: 0.040697336196899414
+----------------------------------------------------
+Path: sample/oG7_1611909181.1346276.png
+Label: oG7
+Result: oG7
+Estimated time: 0.042572021484375
+----------------------------------------------------
+Path: sample/SThoK_1611909208.4636483.png
+Label: SThoK
+Result: SThoK
+Estimated time: 0.04955244064331055
+----------------------------------------------------
+Path: sample/OyuX_1611911556.6522114.png
+Label: OyuX
+Result: OyuY
+Estimated time: 0.04435420036315918
+----------------------------------------------------
+Path: sample/aTu_1611908872.4856198.png
+Label: aTu
+Result: aTu
+Estimated time: 0.04130125045776367
+----------------------------------------------------
+Path: sample/KGmb_1611908871.160542.png
+Label: KGmb
+Result: KGmb
+Estimated time: 0.04102683067321777
+----------------------------------------------------
+Path: sample/5DX7C_1611909158.745648.png
+Label: 5DX7C
+Result: 5DX7C
+Estimated time: 0.04419517517089844
+----------------------------------------------------
+Path: sample/yHmv_1611909167.1678712.png
+Label: yHmv
+Result: yHmv
+Estimated time: 0.04572343826293945
+----------------------------------------------------
+Path: sample/Gnf1_1611909195.658211.png
+Label: Gnf1
+Result: Gnf1
+Estimated time: 0.043883562088012695
+----------------------------------------------------
+Path: sample/TXWGP_1611909150.1290534.png
+Label: TXWGP
+Result: TXWG9
+Estimated time: 0.04244089126586914
+----------------------------------------------------
+Path: sample/4ObZH_1611909140.712557.png
+Label: 4ObZH
+Result: 4ObZH
+Estimated time: 0.04211068153381348
+----------------------------------------------------
+Path: sample/2SjtW_1611909215.561354.png
+Label: 2SjtW
+Result: 2SjtW
+Estimated time: 0.046541452407836914
+----------------------------------------------------
+Path: sample/ztGf_1611908828.7525284.png
+Label: ztGf
+Result: ztGi
+Estimated time: 0.04603004455566406
+----------------------------------------------------
+Path: sample/VdCnc_1611909566.640525.png
+Label: VdCnc
+Result: VdChc
+Estimated time: 0.04497265815734863
+----------------------------------------------------
+Path: sample/qvn_1611909140.6799772.png
+Label: qvn
+Result: qvn
+Estimated time: 0.03968524932861328
+----------------------------------------------------
+Path: sample/DW8N_1611909545.797666.png
+Label: DW8N
+Result: DW8N
+Estimated time: 0.0409848690032959
+----------------------------------------------------
+Path: sample/eSq_1611909174.740446.png
+Label: eSq
+Result: eSq
+Estimated time: 0.04174304008483887
+----------------------------------------------------
+Path: sample/gr4_1611909223.388531.png
+Label: gr4
+Result: gr4
+Estimated time: 0.04333162307739258
+----------------------------------------------------
+Path: sample/mOw_1611909562.0845304.png
+Label: mOw
+Result: mOw
+Estimated time: 0.04429006576538086
+----------------------------------------------------
+Path: sample/OoGB_1611909178.616526.png
+Label: OoGB
+Result: OoGB
+Estimated time: 0.04904294013977051
+----------------------------------------------------
+Path: sample/aRR_1611908831.6322873.png
+Label: aRR
+Result: aRR
+Estimated time: 0.04114580154418945
+----------------------------------------------------
+Path: sample/KHaW_1611909212.9256942.png
+Label: KHaW
+Result: KHaW
+Estimated time: 0.045166015625
+----------------------------------------------------
+Path: sample/o6F_1611908820.327996.png
+Label: o6F
+Result: o6F
+Estimated time: 0.04861569404602051
+----------------------------------------------------
+Path: sample/4yOSO_1611909156.4547105.png
+Label: 4yOSO
+Result: 4yOSO
+Estimated time: 0.046205759048461914
+----------------------------------------------------
+Path: sample/H3r9_1611909554.5845335.png
+Label: H3r9
+Result: H3r9
+Estimated time: 0.042084455490112305
+----------------------------------------------------
+Path: sample/4d4To_1611911556.4062996.png
+Label: 4d4To
+Result: 4d4To
+Estimated time: 0.04719662666320801
+----------------------------------------------------
+Path: sample/9eLsb_1611909150.9176853.png
+Label: 9eLsb
+Result: 9cLsb
+Estimated time: 0.05099749565124512
+----------------------------------------------------
+Path: sample/mMU_1611909150.2802067.png
+Label: mMU
+Result: mMU
+Estimated time: 0.04547238349914551
+----------------------------------------------------
+Path: sample/a6x_1611909133.0885277.png
+Label: a6x
+Result: a6x
+Estimated time: 0.0442352294921875
+----------------------------------------------------
+Path: sample/OiCU_1611909199.1042955.png
+Label: OiCU
+Result: OiCU
+Estimated time: 0.041118621826171875
+----------------------------------------------------
+Path: sample/8JQnd_1611909202.6294255.png
+Label: 8JQnd
+Result: 8JQnd
+Estimated time: 0.05000114440917969
+----------------------------------------------------
+Path: sample/NhQq_1611909223.1933734.png
+Label: NhQq
+Result: NhOq
+Estimated time: 0.046598196029663086
+----------------------------------------------------
+Path: sample/Znk4G_1611909150.5805435.png
+Label: Znk4G
+Result: ZnK4G
+Estimated time: 0.06279635429382324
+----------------------------------------------------
+Path: sample/jLr_1611909159.2005277.png
+Label: jLr
+Result: jLr
+Estimated time: 0.06197786331176758
+----------------------------------------------------
+Path: sample/ybOa_1611909188.782286.png
+Label: ybOa
+Result: ybOa
+Estimated time: 0.059201717376708984
+----------------------------------------------------
+Path: sample/14e1f_1611908820.2485483.png
+Label: 14e1f
+Result: 14e11
+Estimated time: 0.06073951721191406
+----------------------------------------------------
+Path: sample/zLU9_1611909152.1725283.png
+Label: zLU9
+Result: zLU9
+Estimated time: 0.0651998519897461
+----------------------------------------------------
+Path: sample/60gL8_1611909545.454313.png
+Label: 60gL8
+Result: 60gLJ
+Estimated time: 0.04450798034667969
+----------------------------------------------------
+Path: sample/DTLL_1611909183.6458135.png
+Label: DTLL
+Result: DTLL
+Estimated time: 0.04167890548706055
+----------------------------------------------------
+Path: sample/FDsv_1611909555.5085502.png
+Label: FDsv
+Result: FDsv
+Estimated time: 0.042571306228637695
+----------------------------------------------------
+Path: sample/rva_1611909237.889642.png
+Label: rva
+Result: rva
+Estimated time: 0.046471357345581055
+----------------------------------------------------
+Path: sample/q9K_1611909223.1968107.png
+Label: q9K
+Result: q9K
+Estimated time: 0.045594215393066406
+----------------------------------------------------
+Path: sample/00VEb_1611909159.3055782.png
+Label: 00VEb
+Result: 00VEb
+Estimated time: 0.04445600509643555
+----------------------------------------------------
+Path: sample/ZCtyi_1611909141.6402125.png
+Label: ZCtyi
+Result: ZCtyi
+Estimated time: 0.04204440116882324
+----------------------------------------------------
+Path: sample/AJ9R_1611909203.4976647.png
+Label: AJ9R
+Result: AJ9R
+Estimated time: 0.0422055721282959
+----------------------------------------------------
+Path: sample/uNw_1611909545.4585576.png
+Label: uNw
+Result: uNw
+Estimated time: 0.04138040542602539
+----------------------------------------------------
+Path: sample/Js6k_1611909545.5685978.png
+Label: Js6k
+Result: Js6k
+Estimated time: 0.04625415802001953
+----------------------------------------------------
+Accuracy: 78.99159663865547
+Predict 119 images on 2.8933982849121094s
