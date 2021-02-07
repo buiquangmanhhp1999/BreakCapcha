@@ -54,7 +54,6 @@ class TextRecognition(object):
         image = self.preprocess(image)
 
         r = self.predictor.predict(image)
-        print(r)
         return r
 
     def predict_on_batch(self, images):
@@ -62,38 +61,44 @@ class TextRecognition(object):
         return self.predictor.batch_predict(batch_images)
 
 
-file = open('result.txt', 'w')
-batch_img = []
-path = Path('./sample/')
-data = list(path.glob("*.jpg")) + list(path.glob("*.png"))
 model = TextRecognition()
-acc = 0
-
-file.write('------------Predict with batch size = 1--------------------\n')
-for d in data:
-    img_path = str(d)
-    print(img_path)
-    img = Image.open(str(img_path))
-    batch_img.append(img)
-
-    start = time.time()
-    result = model.predict(img)
-    img_name, ext = os.path.splitext(d.name)
-    label, random_nb = img_name.split('_')
-    if label == result:
-        acc += 1
-    end = time.time()
-    img_path = img_path.rstrip('\n')
-
-    file.write('Path: ' + img_path + '\n')
-    file.write('Label: ' + label + '\n')
-    file.write("Result: " + result + '\n')
-    file.write("Estimated time: " + str(end - start) + '\n')
-    file.write('----------------------------------------------------\n')
-
-file.write('Accuracy: ' + str(acc / len(batch_img) * 100) + '\n')
-print('---Predict on batch-------')
 start = time.time()
-result = model.predict_on_batch(batch_img)
+img = Image.open('./test.png')
+print(model.predict(img))
 end = time.time()
-file.write("Predict " + str(len(batch_img)) + " images on " + str(end - start) + "s" + '\n')
+print('Estimated time: {}s'.format(end - start))
+# file = open('result.txt', 'w')
+# batch_img = []
+# path = Path('./sample/')
+# data = list(path.glob("*.jpg")) + list(path.glob("*.png"))
+# model = TextRecognition()
+# acc = 0
+
+# file.write('------------Predict with batch size = 1--------------------\n')
+# for d in data:
+#     img_path = str(d)
+#     print(img_path)
+#     img = Image.open(str(img_path))
+#     batch_img.append(img)
+#
+#     start = time.time()
+#     result = model.predict(img)
+#     img_name, ext = os.path.splitext(d.name)
+#     label, random_nb = img_name.split('_')
+#     if label == result:
+#         acc += 1
+#     end = time.time()
+#     img_path = img_path.rstrip('\n')
+#
+#     file.write('Path: ' + img_path + '\n')
+#     file.write('Label: ' + label + '\n')
+#     file.write("Result: " + result + '\n')
+#     file.write("Estimated time: " + str(end - start) + '\n')
+#     file.write('----------------------------------------------------\n')
+#
+# file.write('Accuracy: ' + str(acc / len(batch_img) * 100) + '\n')
+# print('---Predict on batch-------')
+# start = time.time()
+# result = model.predict_on_batch(batch_img)
+# end = time.time()
+# file.write("Predict " + str(len(batch_img)) + " images on " + str(end - start) + "s" + '\n')
